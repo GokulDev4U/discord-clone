@@ -6,4 +6,7 @@ It is basically a discord clone with some basic functionality
 4. user can login, create channel , text on created channel , delete there own message
 5. persist user login.
 
+# Tech Stack
+react, redux-toolkit, react-router, talwind-css, firebase,firebase google auth
 
+ [Discord-clone](https://discord-c2df9.web.app/)
